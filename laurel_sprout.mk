@@ -468,6 +468,7 @@ PRODUCT_PACKAGES += \
 
 # Shim
 PRODUCT_PACKAGES += \
+    libims_shim \
 	libwatermark_shim
 
 # SOC Properties - for S
