@@ -1008,4 +1008,7 @@
 
     <!-- Night Light FOD -->
     <bool name="disable_fod_night_light">true</bool>  
+
+    <!-- Shows the required view for Screen OFF FOD -->
+    <bool name="config_supportsScreenOffUdfps">true</bool>
 </resources>
